@@ -2,8 +2,8 @@
 ## Overview
 Welcome to the **Switch_scripts** repository! This repository contains a collection of scripts designed for configuring Cisco switches. These scripts are created as part of a graduation project and can be either static or customizable.
 ## Features
-**Static scripts** => Pre-defined scripts for common switch configurations like show scripts.
-**Customizable scripts** => Scripts that can be adjusted based on user inputs to fit specific requirements.
+- **Static scripts** => Pre-defined scripts for common switch configurations like show scripts.
+- **Customizable scripts** => Scripts that can be adjusted based on user inputs to fit specific requirements.
 ## Abbreviations
 - **En** => Enable
 - **Dis** => Disable
